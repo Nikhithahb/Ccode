@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
-  int a,b,sum;
+  int a=4,b=2,sum;
   sum=a+b;
 }
